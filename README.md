@@ -18,8 +18,6 @@
 ---
 
 ## 🏗️ **Proyectos Destacados**
-🔹 **[Proyecto de Análisis Forense con Elasticsearch](https://github.com/tu-repo)**  
-  _Sistema basado en Elasticsearch para análisis de datos judiciales._  
 
 🔹 **[Predicción de Delitos de Extorsión con LSTM](https://github.com/tu-repo)**  
   _Modelo de aprendizaje profundo basado en redes neuronales LSTM para predecir patrones de delitos de extorsión._  
